@@ -1,4 +1,4 @@
 - [ ] JBake: https://jbake.org/
 - [ ] YugabyteDB: https://vladmihalcea.com/yugabytedb/
 - [ ] JfrJunit: https://www.infoq.com/news/2021/09/jfrunit-flight-recorder-events/
-- [ ] Microstream: https://microstream.one/
+- [ ] Microstream | Otavio Santana: https://microstream.one/
