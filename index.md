@@ -4,5 +4,5 @@ Durante vinte e quatro dias em Dezembro, publicamos uma dose diária de topicos 
 
 ## Referencias
 
-- https://24ways.org/
-- https://www.javaadvent.com/
+- [24 WAYS to impress your friends](https://24ways.org/)
+- [JVM ADVENT - The JVM Programming Advent Calendar](https://www.javaadvent.com/)
